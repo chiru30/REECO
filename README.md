@@ -4,18 +4,15 @@
 * [Video](#intro-video)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
 ## PROJECT INFORMATION 
-* AQUA.ANALYST is a platform which aims to provide detailed insights of the chemical components of their water sample to the users.
-* Will let your value compare with the nearby locations
-* Detailed relationships and correlational patterns of the components
-* A peek into articles related to the topic
-* Various visualisations to compare water quality in different states
-* Insights and visuals on effect of agriculture and crop production due to chemical components 
+* REECO aims at providing service oriented industrialists and cooperate sector a platform to understand the global natural resources share and future feasibility of projects or power plants they tend to establish .
+* The reasons to invest in natural resources have always been compelling. Whether it's hydro, thermal, or nuclear, natural resources are at the core of production.
+The pool of investable natural resources is growing as the world population requires more and more of these resources.
+Also , natural resources boosts the Indian Economy
 
 ## INTRO VIDEO
 
@@ -34,25 +31,26 @@ CLICK THE LOGO TO WATCH
 
 
 ## Technologies
-* Data Science
-* Data Visualisation
-* Data Analytics
-* Statistical Algorithm
-* Streamlit
-* Python
+* Machine Learning 
+* Data Mining 
+* Data analytics and  visualisations 
+* Data Science 
+* Business Analytics
+* Flask 
+* mySQL database
 
-## Setup
-pip install streamlit
 
 ## Code Examples
 ![Apriori Algo](apriori_image.jpeg)
 
 ## Features
 
-* HOME
-* ANALYST
-* DASHBOARDS
-* FEED
+* HOME 
+* ESTIMATOR
+* FORECASTER
+* GDP GROWTH
+* NATIONAL SHARE
+* IMPORT/EXPORT 
 
 ## Status
 Project done 
