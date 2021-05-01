@@ -44,6 +44,7 @@ CLICK THE LOGO TO WATCH
 ## Code Examples
 ![Algorithms](code1.PNG)
 ![Flask implementation](code2.PNG)
+!.[](code3.jpeg)
 
 ## Features
 
