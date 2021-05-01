@@ -22,7 +22,7 @@ CLICK THE LOGO TO WATCH
 
 
 ## Screenshots
-![Home page](iiwomm.PNG)
+![Home page](iiwomn.PNG)
 ![Estimator](gp.PNG)
 ![ForeCaster](region.PNG)
 ![REECO Visualisations](hom2.PNG)
