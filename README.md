@@ -22,11 +22,11 @@ CLICK THE LOGO TO WATCH
 
 
 ## Screenshots
-![Home page](homepage.jpeg)
-![Analyst](analyst.jpeg)
-![Dashboard](statedash.jpeg)
-![Analyst Visuals](visuals.jpeg)
-![Feed](feed.jpeg)
+![Home page](home.PNG)
+![Estimator](gp.PNG)
+![ForeCaster](region.PNG)
+![REECO Visualisations](hom2.PNG)
+![GDP Check](gdp.PNG)
 
 
 
@@ -36,6 +36,7 @@ CLICK THE LOGO TO WATCH
 * Data analytics and  visualisations 
 * Data Science 
 * Business Analytics
+* Tableau
 * Flask 
 * mySQL database
 
