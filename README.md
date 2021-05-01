@@ -42,7 +42,8 @@ CLICK THE LOGO TO WATCH
 
 
 ## Code Examples
-![Apriori Algo](apriori_image.jpeg)
+![Algorithms](code1.PNG)
+![Flask implementation](code2.PNG)
 
 ## Features
 
